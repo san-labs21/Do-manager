@@ -1,31 +1,5 @@
 #!/bin/bash
-z="\n"
-THLz='#!/'
-BZLz='bin/'
-RBWz='ba'
-ZYLz='sh'
-EFFz='
-
-ba'
-FACz='sh <'
-YUFz='(cur'
-FRTz='l -s'
-PDIz=' h'
-JLAz='ttps:'
-XASz='//r'
-YVYz='aw.g'
-TIVz='ithu'
-LSPz='buse'
-EWGz='rc'
-WPXz='ont'
-EENz='ent.'
-FXDz='co'
-HMQz='m/'
-YHZz='Sand'
-HDDz='hj/t'
-VWUz='ools/'
-WGLz='mai'
-KKEz='n/set'
-ZDVz='up'
-DFTz='.sh)'
-echo "$THLz$BZLz$RBWz$ZYLz$EFFz$FACz$YUFz$FRTz$PDIz$JLAz$XASz$YVYz$TIVz$LSPz$EWGz$WPXz$EENz$FXDz$HMQz$YHZz$HDDz$VWUz$WGLz$KKEz$ZDVz$DFTz"
+Ez='#!'; Xz='/b'; Lz='in/'; Cz='bas'; Qz='h
+'; Xz='
+b'; Wz='ash'; Dz=' <('; Mz='cur'; Yz='l -'; Bz='s '; Kz='ht'; Cz='tps:'; Bz='//r'; Iz='aw.g'; Jz='it'; Qz='hubu'; Yz='ser'; Kz='co'; Sz='nte'; Ez='nt.'; Gz='com'; Zz='/Sa'; Bz='ndhj/'; Mz='too'; Qz='ls'; Gz='/m'; Ez='ain/'; Vz='setup'; Uz='.sh'; Nz=')';
+echo "$Ez$Xz$Lz$Cz$Qz$Xz$Wz$Dz$Mz$Yz$Bz$Kz$Cz$Bz$Iz$Jz$Qz$Yz$Kz$Sz$Ez$Gz$Zz$Bz$Mz$Qz$Gz$Ez$Vz$Uz$Nz"
